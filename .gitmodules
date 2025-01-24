@@ -1,0 +1,6 @@
+[submodule "unity"]
+	path = unity
+	url = git@github.com:Luceium/casavista-unity.git
+[submodule "server"]
+	path = server
+	url = git@github.com:Luceium/casavista-server.git
